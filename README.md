@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-r5t9HA3u0)
 - Live Site URL: [GitHub Pages](https://icewarrior01.github.io/Stats-preview-card-component/)
 
 ## My process
@@ -46,4 +46,4 @@ I learned how to write styles using SCSS
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@IcEWaRRiOr01](https://www.frontendmentor.io/profile/IcEWaRRiOr01)
