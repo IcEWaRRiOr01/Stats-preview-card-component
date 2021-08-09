@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://icewarrior01.github.io/Stats-preview-card-component/)
+- Live Site URL: [GitHub Pages](https://icewarrior01.github.io/Stats-preview-card-component/)
 
 ## My process
 
